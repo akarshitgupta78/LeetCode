@@ -11,7 +11,7 @@
 
 ##  LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/akarshitgupta78?theme=dark&font=baloo&ext=contest)
 
 ---
 
