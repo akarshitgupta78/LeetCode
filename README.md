@@ -1,2 +1,21 @@
-# LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+##  GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarshitgupta78&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akarshitgupta78&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshitgupta78&layout=compact&theme=tokyonight)
+
+---
+
+##  LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest)
+
+---
+
+## Repository Stats
+
+- ⭐ Daily Updated
+- 📈 500+ Problems Solved
