@@ -13,4 +13,4 @@
 ## Repository Stats
 
 - ⭐ Daily Updated
-- 📈 500+ Problems Solved
+- 📈 600+ Problems Solved
